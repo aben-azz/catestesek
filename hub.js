@@ -6,7 +6,7 @@ const Argv = process.argv.slice(2),
 
 let server = Express().use((req, res) => {
 	const parsedUrl = Url.parse(req.url);
-	let pathname = `./data/${parsedUrl.pathname}`;
+	let pathname = `./${parsedUrl.pathname}`;
 	console.log(pathname);
 	const mimeType = {
 		'.ico': 'image/x-icon',
