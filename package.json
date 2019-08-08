@@ -1,0 +1,21 @@
+{
+  "name": "macaxfish",
+  "version": "1.0.0",
+  "description": "Bot bp",
+  "main": "dropbox.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aben-azz/Macaxfish.git"
+  },
+  "author": "Macadelic & FishFish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aben-azz/Macaxfish/issues"
+  },
+  "homepage": "https://github.com/aben-azz/Macaxfish#readme"
+}
