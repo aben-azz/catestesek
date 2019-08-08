@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "Bot bp",
   "main": "dropbox.js",
-  "dependencies": {},
+  "dependencies": {
+    "fs": "latest",
+    "url": "latest",
+    "express": "latest",
+  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
