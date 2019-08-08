@@ -6,7 +6,7 @@
   "dependencies": {
     "fs": "latest",
     "url": "latest",
-    "express": "latest",
+    "express": "latest"
   },
   "devDependencies": {},
   "scripts": {
